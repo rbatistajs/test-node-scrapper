@@ -14,5 +14,5 @@
 
 # Get Items
 
-http//localhost:3333/items
+(http//localhost:3333/items)(http//localhost:3333/items)
 
