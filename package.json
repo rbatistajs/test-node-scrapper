@@ -9,7 +9,7 @@
         "puppeteer": "^5.2.1"
     },
     "engines": {
-        "node": ">= 12.x.x"
+        "node": ">= 12.18.x"
     },
     "scripts": {
         "start": "node src/index.js"

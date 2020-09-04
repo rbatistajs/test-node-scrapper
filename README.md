@@ -2,7 +2,7 @@
 
 # Requirements
 
-    Node => 12.x
+    Node => 12.18.x
 
 # Install Dependencies
 
